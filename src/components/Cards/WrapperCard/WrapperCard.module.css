@@ -1,0 +1,21 @@
+.wrapperCard{
+    background: white;
+    margin:25px 0;
+    border-radius: 8px;
+    box-shadow: 0 1.5px 5px 0 rgba(0, 0, 0, 0.16);
+}
+.wrapperHeading{
+    padding: 12px 30px;
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: bold;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    color: white;
+    background: #003b71;
+}
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

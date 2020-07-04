@@ -1,0 +1,12 @@
+.commonBtn{
+    margin:16px auto 0 !important;
+    font-size: 0.8rem !important;
+    font-weight: 800 !important;
+    color: white !important;
+    text-transform: uppercase;
+    background: #799d4b !important;
+
+  }
+  .commonBtn:hover, .commonBtn.active{
+      background: #6f8e48 !important;
+  }
